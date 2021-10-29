@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Esta linea es un comentario,
 # el interprete de comandos
@@ -8,13 +8,15 @@
 
 echo "Hola Mundo"
 
-## Practica 1: Ejecutar el script, 
-## para hacerlo escribir en la terminal
+## Ejercicio 1: Indicar la ubicacion del 
+## interprete de comandos en la primera linea 
+## y ejecutar el script, para hacerlo escribir 
+## en la terminal
 ##
 ## 	bash 00_hola_mundo.sh
 ##
 
-## Practica 2: Usar el comando chmod para 
+## Ejercicio 2: Usar el comando chmod para 
 ## hacer el script ejecutable, despues 
 ## ejecutarlo con el siguiente comando
 ##

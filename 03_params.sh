@@ -1,11 +1,10 @@
 #!/bin/bash
 
 # Numero de parametros
-echo "$#"
+echo "Cantidad de parametros: $#"
 
 # Lista de parametros
-echo "$@"
+echo "Todos los parametros:" "$@"
 
 # Primer parametro
-echo "$0"
-
+echo "Nombre del script: $0"
