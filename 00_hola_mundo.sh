@@ -15,8 +15,8 @@ echo "Hola Mundo"
 ##
 
 ## Ejercicio 2: Indicar la ubicación del 
-## interprete de comando en la primera 
-## linea y hacer el script ejecutable.
+## interprete de comandos en la primera 
+## línea y hacer el script ejecutable.
 ## Ejecutarlo con el siguiente comando:
 ##
 ## 	./00_hola_mundo.sh
