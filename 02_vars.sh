@@ -27,16 +27,6 @@ echo "num3 = $num3"
 ## 10+20=30
 ## 10-20=-10
 
-resultado=$(( $num1 + $num2 ))
-echo "$num1 + $num2 = $resultado"
 
-resultado=$(( $num1 - $num2 ))
-echo "$num1 - $num2 = $resultado"
-
-resultado=$(( $num1 * $num2 ))
-echo "$num1 * $num2 = $resultado"
-
-resultado=$(( $num1 / $num2 ))
-echo "$num1 / $num2 = $resultado"
 
 ## Modificar los valores de las variables y volver a ejecutar el script.
